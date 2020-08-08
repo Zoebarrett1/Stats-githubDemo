@@ -152,7 +152,7 @@ Insert some text here
 Group 10
 ===
 
-Insert some text here
+We are changing the text :D
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
